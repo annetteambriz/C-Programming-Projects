@@ -1,0 +1,7 @@
+# ninja log v6
+213	363	1730609772889040983	Structures_in_C	8b05517ba196e510
+7	213	1730609772682987915	CMakeFiles/Structures_in_C.dir/calculateOutputs.c.o	1abea33ce29f1ba4
+6	213	1730609772682568894	CMakeFiles/Structures_in_C.dir/processInput.c.o	956b301b6659f19f
+7	213	1730609772683281864	CMakeFiles/Structures_in_C.dir/displayResults.c.o	fa6f7fa6efd6a66
+6	213	1730609772682226016	CMakeFiles/Structures_in_C.dir/main.c.o	85992aa51564cb89
+0	35	1733540187501510801	build.ninja	fb34dfeb042d8a6d
